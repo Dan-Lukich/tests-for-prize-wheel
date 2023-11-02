@@ -1,5 +1,5 @@
 # tests-for-prize-wheel
-Contains the tests and logger for the Prize Wheel project.
+Contains the tests and logger for the Prize Wheel Unity C# project.
 
 # Test Manager
 #### initializeCaseAndProbability()
